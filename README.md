@@ -60,7 +60,7 @@ portfolio-web-app/
    - Open `http://localhost:8080` in a web browser.
 
 ## 🎯 Live Demo (If Hosted)
-[🔗 Live Portfolio](https://rahulbhusari07.github.io/portfolio-web-app/) *(Replace with actual URL if deployed)*
+[🔗 Live Portfolio](https://rahulbhusari07.github.io/portfolio-web-app/)
 
 ## 💡 Contributing
 If you'd like to contribute, fork the repository and submit a pull request!
