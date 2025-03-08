@@ -59,7 +59,7 @@ portfolio-web-app/
 4. **Access the application**:
    - Open `http://localhost:8080` in a web browser.
 
-## 🎯 Live Demo (If Hosted)
+## 🎯 Live Demo 
 [🔗 Live Portfolio](https://rahulbhusari07.github.io/portfolio-web-app/)
 
 ## 💡 Contributing
