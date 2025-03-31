@@ -64,8 +64,7 @@ portfolio-web-app/
 ## 🎯 Project Documentation
 [📄 Portfolio Web App Documentation](https://docs.google.com/document/d/e/2PACX-1vTN7vj7XYFPe2gjn-Ju4244BU5aoAU7kedPnuByBnLuC7Vr8ByMgyLQ13ZZFounHBf0LKIlZUfKIgp5/pub)
 
-## 🌐 Live Demo (If Deployed)
-[🔗 Live Portfolio](https://rahulbhusari07.github.io/portfolio-web-app/)
+
 
 ## 💡 Contributing
 If you'd like to contribute, **fork the repository** and submit a **pull request**!
